@@ -6,3 +6,4 @@ AUTHOR:SETHURAJ
 2.Chat Screen Code
 3.Last Seen Code
 4.Attachments(Image,Audio,Video) Code
+Hiding the Last Screen
